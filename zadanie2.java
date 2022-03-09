@@ -8,3 +8,4 @@ public class zadanie2
         }
     }
 }
+//Adam Zeid INA sem 2 Lista 0 zadabie 2 09.03.21
