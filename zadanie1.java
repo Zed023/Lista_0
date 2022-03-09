@@ -8,3 +8,4 @@ public class zadanie1
         System.out.println("Dzisiaj jest: "+(new Date()));
     }
 }
+//Adam Zeid INA sem 2 Lista 0 zadabie 1 09.03.21
